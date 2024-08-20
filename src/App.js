@@ -8,9 +8,9 @@ import Skills from "./Components/sections/Skills";
 import Experience from "./Components/sections/Experience";
 import Education from "./Components/sections/Education";
 import Projects from "./Components/sections/Projects";
-import StartCanvas from "./Components/canvas/Stars";
+
 import Footer from "./Components/sections/Footer";
-import Contact from "./Components/sections/Contact";
+
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
   width: 100%;
