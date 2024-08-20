@@ -15,6 +15,7 @@ const Navbar = () => {
     position: sticky;
     top: 0;
     color: white;
+    z-index: 20;
   `;
   const NavbarContainer = styled.div`
     max-width: 1200px;
