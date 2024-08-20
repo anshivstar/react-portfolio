@@ -177,7 +177,11 @@ export const experiences = [
     role: "Senior Full Stack Developer",
     company: "Careerflow.ai",
     date: "July 2021 - May 2024",
-    desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
+    desc: `Implemented AI-powered recommendation system in web applications using ChatGPT APIs, resulting in a 25% increase in user engagement and retention
+Developed an AI-powered resume builder using React and Zustand, optimizing user experience resulting in a 20% increase in user engagement.
+Designed and developed a robust job application tracking system, improving efficiency by automating document linkage and contact management for X number of active job applications
+Developed a custom Chrome extension to optimize LinkedIn profiles and streamline job saving process to the job tracker portal.
+Developed a web application with a highly intuitive user interface and engaging user interactions, enhancing overall user experience.`,
     skills: [
       "JavaScript",
       "TypeScript",
@@ -199,7 +203,7 @@ export const experiences = [
     role: "React.js Developer",
     company: "Codebucket Solutions pvt. ltd.",
     date: "March 2021 - June 2021",
-    desc: "• Built RudraShakti - Astrologer App, with MVVM Architecture using Java and Android Studio integrating Firebase SDK. Created One to One video call integration with Socket.IO and Firebase cloud functions and integrated with Retrofit. Created Low Level Design and converted Figma design to XML code.",
+    desc: "Designed and implemented high-performance, ReactJS-based frontend for Mad Influence, optimizing page load speed by 20% and boosting user engagement by 15%,Utilized Redux for efficient state management, leading to a 30% reduction in loading time and an improved overall user experience.",
     skills: ["HTML", "CSS", "ReactJS", "Redux", "JavaScript", "Graph QL"],
     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
   },
