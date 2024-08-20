@@ -91,7 +91,7 @@ const CardContainer = styled.div`
 `;
 
 const Projects = () => {
-  const [toggle, setToggle] = useState("all");
+  const [toggle] = useState("all");
   return (
     <Container id="Projects">
       <Wrapper>
