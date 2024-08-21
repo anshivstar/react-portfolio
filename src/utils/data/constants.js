@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile software developer, always eager to tackle new challenges. My passion for learning drives me to deliver high-quality results in every project. With a positive attitude and a growth mindset, I am committed to making meaningful contributions and achieving excellence in the software development field.",
   github: "https://github.com/anshivstar",
   resume:
-    "https://drive.google.com/file/d/1J3F8ln7edE-2IhyrxB7kLjOVVE5sZ9t9/view?usp=sharing",
+    "https://drive.google.com/file/d/1yBEi5FMXGvGQE5xfSeJPYCUlO-l_PHMS/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shivamtiwari2000/",
 };
 
