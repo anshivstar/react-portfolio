@@ -3,6 +3,7 @@ import styled, { useTheme } from "styled-components";
 import { Link as LinkR } from "react-router-dom";
 import { Bio } from "../utils/data/constants";
 import { MenuRounded } from "@mui/icons-material";
+import SentimentSatisfiedAltIcon from "@mui/icons-material/SentimentSatisfiedAlt";
 
 const Navbar = () => {
   const Nav = styled.div`
@@ -128,7 +129,8 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavbarLogo to="/">Shivam</NavbarLogo>
+        <SentimentSatisfiedAltIcon />
+        <NavbarLogo to="/">Portfolio</NavbarLogo>
         <MobileIcon onClick={() => setMenuOpen(!menuOpen)}>
           <MenuRounded style={{ color: "inherit" }} />
         </MobileIcon>
