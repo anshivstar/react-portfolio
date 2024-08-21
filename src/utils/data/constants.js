@@ -309,15 +309,26 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Careerflow.ai Web app",
+    title: "Careerflow.ai coaching app",
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
       "https://cdn.prod.website-files.com/635c591378332f38be25d45f/63a1152ff687d737b6b93250_Careerflow%20logo%20240x240.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "Zustand",
+      "React Context",
+      "Ant Design",
+      "GCP",
+      "Firestore",
+    ],
     category: "web app",
 
-    webapp: "https://app.careerflow.ai/dashboard",
+    webapp: "https://coach.careerflow.ai/",
   },
   {
     id: 0,
